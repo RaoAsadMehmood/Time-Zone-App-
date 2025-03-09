@@ -32,7 +32,7 @@ flags = {
     "Asia/Dubai": "https://flagcdn.com/w20/ae.png",       # UAE
     "Asia/Kolkata": "https://flagcdn.com/w20/in.png",     # India
 }
-
+st.set_page_config(page_title="Time Zone App", page_icon="⏳")
 st.title("Time Zone App")
 
 # Multiselect for timezones
