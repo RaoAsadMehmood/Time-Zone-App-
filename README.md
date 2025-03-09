@@ -27,8 +27,8 @@ The app uses the `datetime` and `zoneinfo` libraries for time handling and fetch
    git clone https://github.com/RaoAsadMehmood/Time-Zone-App-.git
    cd Time-Zone-App-
 2. Install Dependencies: Create a virtual environment (optional) and install the required package:
-bash
-streamlit run main.py   
+```bash
+   streamlit run main.py   
 
 
 ## Usage
@@ -57,3 +57,8 @@ Feel free to fork this repository, submit pull requests, or open issues for bugs
 
 ## License
 This project is open-source and available under the [MIT License](LICENSE).
+
+Author
+Rao Asad Mehmood
+GitHub: RaoAsadMehmood
+LinkedIn: [Rao Asad Mehmood](https://www.linkedin.com/in/rao-asad-mehmood/) 
